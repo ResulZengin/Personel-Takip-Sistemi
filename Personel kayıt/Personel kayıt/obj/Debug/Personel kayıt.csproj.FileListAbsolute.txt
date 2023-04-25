@@ -1,0 +1,76 @@
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\obj\Debug\Personel kayıt.csproj.AssemblyReference.cache
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\obj\Debug\Personel kayıt.csproj.SuggestedBindingRedirects.cache
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\Personel kayıt.exe.config
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\Personel kayıt.exe
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\Personel kayıt.pdb
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\EnvDTE.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\obj\Debug\Personel_kayıt.FrmAnaForm.resources
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\obj\Debug\Personel_kayıt.FrmGiris.resources
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\obj\Debug\Personel_kayıt.FrmGrafikler.resources
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\obj\Debug\Personel_kayıt.Frmistatistik.resources
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\obj\Debug\Personel_kayıt.FrmRaporlar.resources
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\obj\Debug\Personel_kayıt.Properties.Resources.resources
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\obj\Debug\Personel kayıt.csproj.GenerateResource.cache
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\obj\Debug\Personel kayıt.csproj.CoreCompileInputs.cache
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\obj\Debug\Personel kayıt.csproj.CopyComplete
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\obj\Debug\Personel kayıt.exe
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\obj\Debug\Personel kayıt.pdb
+C:\Users\huln0\source\repos\Personel kayıt\Personel kayıt\obj\Debug\Personel_kayıt.FrmUyeol.resources
